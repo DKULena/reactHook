@@ -1,0 +1,15 @@
+html {
+    font-size: 62.5%; /* 1rem = 10px */
+}
+
+.App {
+    width: 50rem;
+    margin: 0 auto;
+
+
+    font-size: 1.6rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    /* align-items: center; */
+}
